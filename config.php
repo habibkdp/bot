@@ -1,7 +1,7 @@
 <?php
 
-$email = "kadal15@gmail.com";
-$password = "Darking1";
+$email = "habibkdp9@gmail.com";
+$password = "Krew1234";
 
 //Pillih Warna 0 untuk hijau 1 untuk kuning
 $collor = "0";
