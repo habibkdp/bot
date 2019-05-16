@@ -4,7 +4,7 @@ $email = "habibkdp9@gmail.com";
 $password = "Krew1234";
 
 //Pillih Warna 0 untuk hijau 1 untuk kuning
-$collor = "0";
+$collor = "1";
 
 // Pilih Jumlah Spin Saran 1 - 5
 $amount = "1";
